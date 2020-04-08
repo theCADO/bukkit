@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-04-08 21:45:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-30 15:57:15 +0200"
@@ -927,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-04-08 21:45:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-30 15:06:28 +0200"
@@ -1007,7 +1019,9 @@
       "minecraft:spider": "2020-03-30 16:05:06 +0200",
       "minecraft:creeper": "2020-04-07 22:03:58 +0200",
       "minecraft:phantom": "2020-03-31 09:12:34 +0200",
-      "minecraft:zombie": "2020-03-30 15:37:55 +0200"
+      "minecraft:witch": "2020-04-08 21:42:29 +0200",
+      "minecraft:zombie": "2020-03-30 15:37:55 +0200",
+      "minecraft:drowned": "2020-04-08 21:23:02 +0200"
     },
     "done": false
   },
@@ -1507,6 +1521,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2020-03-30 16:43:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-04-08 21:23:06 +0200"
     },
     "done": true
   },
