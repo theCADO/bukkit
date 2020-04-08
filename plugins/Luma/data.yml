@@ -1,0 +1,37 @@
+canvases:
+- delay: 20
+  name: nicobarpigeon
+  width: 2
+  baseId: 0
+  height: 3
+- delay: 20
+  name: hentai
+  width: 3
+  baseId: 6
+  height: 3
+- delay: 20
+  name: hen1
+  width: 3
+  baseId: 15
+  height: 3
+- delay: 20
+  name: hen2
+  width: 3
+  baseId: 24
+  height: 3
+- delay: 20
+  name: hen3
+  width: 3
+  baseId: 33
+  height: 3
+- delay: 20
+  name: hen4
+  width: 3
+  baseId: 42
+  height: 3
+- delay: 20
+  name: hensmall
+  width: 1
+  baseId: 51
+  height: 1
+actions: []
