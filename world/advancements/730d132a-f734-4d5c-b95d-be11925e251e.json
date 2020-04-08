@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-04-09 00:13:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-03-30 21:01:37 +0200"
@@ -350,6 +356,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-03-31 10:04:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-04-08 23:51:46 +0200"
     },
     "done": true
   },
@@ -743,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-04-08 22:55:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2020-04-07 23:11:45 +0200"
@@ -899,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-04-09 00:03:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-30 20:28:02 +0200"
@@ -963,6 +987,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-30 20:38:00 +0200",
       "minecraft:spider": "2020-03-31 09:41:32 +0200",
+      "minecraft:phantom": "2020-04-08 23:01:10 +0200",
       "minecraft:husk": "2020-04-07 22:26:17 +0200",
       "minecraft:zombie": "2020-03-30 21:33:32 +0200"
     },
@@ -1043,6 +1068,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-03-31 10:49:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-04-08 23:51:13 +0200"
     },
     "done": true
   },
@@ -1214,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-04-09 00:03:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-31 09:41:53 +0200"
@@ -1271,6 +1308,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-03-30 20:42:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-04-08 23:53:26 +0200"
     },
     "done": true
   },
@@ -1343,6 +1386,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-03-31 09:58:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-04-08 23:45:49 +0200"
     },
     "done": true
   },
@@ -1481,6 +1530,18 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-04-07 21:55:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-04-09 00:03:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-04-08 23:01:29 +0200"
     },
     "done": true
   },
@@ -1649,14 +1710,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-04-08 23:53:20 +0200",
       "minecraft:mountains": "2020-03-31 11:04:10 +0200",
+      "minecraft:forest": "2020-04-08 23:46:45 +0200",
       "minecraft:desert_hills": "2020-04-07 21:49:49 +0200",
       "minecraft:desert": "2020-04-07 21:50:24 +0200",
+      "minecraft:jungle": "2020-04-09 00:01:32 +0200",
+      "minecraft:jungle_hills": "2020-04-09 00:00:43 +0200",
+      "minecraft:bamboo_jungle": "2020-04-08 23:53:47 +0200",
       "minecraft:savanna_plateau": "2020-03-30 20:28:02 +0200",
       "minecraft:beach": "2020-03-31 09:58:02 +0200",
       "minecraft:river": "2020-03-31 10:01:35 +0200",
       "minecraft:lukewarm_ocean": "2020-04-08 21:14:59 +0200",
-      "minecraft:savanna": "2020-03-30 20:28:58 +0200"
+      "minecraft:wooded_hills": "2020-04-09 00:17:27 +0200",
+      "minecraft:savanna": "2020-03-30 20:28:58 +0200",
+      "minecraft:plains": "2020-04-08 23:50:36 +0200"
     },
     "done": false
   },
@@ -1858,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-04-08 23:53:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-04-07 23:11:45 +0200"
@@ -1873,6 +1947,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-03-30 21:33:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-04-09 00:01:38 +0200"
     },
     "done": true
   },
@@ -1930,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-04-08 23:51:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-03-30 21:22:51 +0200"
@@ -1945,6 +2031,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-03-30 20:33:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2020-04-09 00:01:38 +0200"
     },
     "done": true
   },
