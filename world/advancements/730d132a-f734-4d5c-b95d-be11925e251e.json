@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-04-11 17:26:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-04-08 22:55:05 +0200"
@@ -1071,6 +1077,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-30 20:38:00 +0200",
       "minecraft:spider": "2020-03-31 09:41:32 +0200",
+      "minecraft:creeper": "2020-04-11 17:20:40 +0200",
       "minecraft:phantom": "2020-04-08 23:01:10 +0200",
       "minecraft:husk": "2020-04-07 22:26:17 +0200",
       "minecraft:zombie": "2020-03-30 21:33:32 +0200",
@@ -1902,6 +1909,7 @@
       "minecraft:river": "2020-03-31 10:01:35 +0200",
       "minecraft:lukewarm_ocean": "2020-04-08 21:14:59 +0200",
       "minecraft:wooded_mountains": "2020-04-10 21:18:51 +0200",
+      "minecraft:bamboo_jungle_hills": "2020-04-11 16:46:41 +0200",
       "minecraft:wooded_hills": "2020-04-09 00:17:27 +0200",
       "minecraft:savanna": "2020-03-30 20:28:58 +0200",
       "minecraft:plains": "2020-04-08 23:50:36 +0200"
@@ -2019,6 +2027,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-30 20:33:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-04-11 17:27:22 +0200"
     },
     "done": true
   },
